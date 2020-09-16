@@ -1,0 +1,6 @@
+This file is an example bot log file. The file 'monitorlogfile.txt' contains 2 lines. 
+The first is the path to the bot log file. The second line is a a portion of text which the 
+monitor will check for and send alert. For example the first line may point to the file 
+C:\Users\admin\Desktop\bot\bot.log and the second line could be the word CAPTCHA. So 
+when the word is detected in the log then the alert will be actioned. You can edit 
+monitorlogfile.txt second line with any word in this file then start monitor to test
